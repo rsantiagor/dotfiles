@@ -1,2 +1,3 @@
-# dotfiles
-Repo to host my personal config files
+# Personal config files repo
+
+Hosting personal config ("dot files") to make config portability easier accross machines.
